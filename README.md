@@ -2,6 +2,8 @@
 
 This project implements and benchmarks machine learning models to detect fraudulent credit card transactions using a highly imbalanced real-world dataset.
 
+**Note:** You can find the deployment process [here](https://github.com/soutogustavo/deployment-cc-fraud-detection).
+
 ## Goals
 
 - Explore (anonymized) transactional data.
